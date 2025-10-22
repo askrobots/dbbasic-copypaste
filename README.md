@@ -16,10 +16,17 @@ A clipboard manager with history for macOS. View your current clipboard, browse 
 
 ## Installation
 
+### From PyPI (recommended)
+
+```bash
+pip install dbbasic-copypaste
+```
+
 ### From source
 
 ```bash
-# Clone or navigate to the repository
+# Clone the repository
+git clone https://github.com/askrobots/dbbasic-copypaste.git
 cd dbbasic-copypaste
 
 # Install dependencies
