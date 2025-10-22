@@ -2,6 +2,8 @@
 
 A clipboard manager with history for macOS. View your current clipboard, browse through clipboard history, and restore previous items.
 
+![Screenshot](screenshot.png)
+
 ## Features
 
 - **Real-time monitoring** - Automatically tracks clipboard changes
